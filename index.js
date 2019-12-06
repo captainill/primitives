@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const colors_1 = require("./primitives/colors");
+exports.colors = colors_1.colors;
+const spacing_1 = require("./primitives/spacing");
+exports.spacing = spacing_1.spacing;
+const typography_1 = require("./primitives/typography");
+exports.typography = typography_1.typography;
+const theme_1 = require("./theme");
+exports.theme = theme_1.theme;

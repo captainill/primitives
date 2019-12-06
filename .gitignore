@@ -7,5 +7,3 @@ build
 _site
 *.lerna_backup
 .changelog
-*.js
-*.d.ts
