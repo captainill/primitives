@@ -1,5 +1,5 @@
 {
-  "name": "@primer/primitives",
+  "name": "@system/primitives",
   "version": "3.0.0",
   "description": "Typography, spacing, and color primitives for Primer design system",
   "files": [
@@ -12,7 +12,7 @@
   ],
   "main": "index.js",
   "types": "index.d.ts",
-  "repository": "https://github.com/primer/primitives",
+  "repository": "https://github.com/captainill/primitives",
   "keywords": [
     "primitives",
     "colors",
@@ -24,9 +24,9 @@
   "author": "GitHub, Inc.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/primer/primitives/issues"
+    "url": "https://github.com/captainill/primitives/issues"
   },
-  "homepage": "https://github.com/primer/primitives#readme",
+  "homepage": "https://github.com/captainill/primitives#readme",
   "scripts": {
     "build": "tsc",
     "prepack": "yarn build"
